@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://jawidanfar1015.github.io/portfolio-by-react/)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [Get Outside](https://github.com/pdubya1632/project-1-group-8)
+- 👯 I’m looking to collaborate on [Movie Scene](https://github.com/Jawidanfar1015/Project-3-group-2)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jawidanfar1015](https://github.com/Jawidanfar1015)
 
