@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hajikaka4030@gmail.com**
 
-- 🌎 Check My Website [https://jawidanfar1015.github.io/PORTFOLIO/](https://jawidanfar1015.github.io/PORTFOLIO/)
+- 🌎 [Check My Website](https://jawidanfar1015.github.io/portfolio-by-react/)
 
 - ⚡ Fun fact **I love playing Soccer.**
 
